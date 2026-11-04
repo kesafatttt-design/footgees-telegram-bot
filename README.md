@@ -25,3 +25,5 @@ A Telegram bot integrated with the TON Blockchain and Football-Data.org API. Thi
    `bash
    git clone https://github.com/YOUR_USERNAME/footgess-bot.git
    cd footgess-bot
+## :link: Related Project
+- Footgess Jetton Contract (TON): [https://github.com/kesafatttt-design/footgess-jetton-ton](https://github.com/kesafatttt-design/footgess-jetton-ton)
